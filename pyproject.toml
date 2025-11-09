@@ -1,0 +1,12 @@
+[project]
+name = "innowise_laboratory"
+version = "0.1.0"
+description = "Mini project for Git, venv and Colorama"
+authors = [
+    { name = "chaanmi", email = "wwkto3@gmail.com" }
+]
+
+dependencies = [
+    "colorama"
+]
+
